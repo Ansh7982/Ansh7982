@@ -78,6 +78,7 @@ Data Lake • Data Warehouse • Lakehouse Architecture • Fact & Dimension Mod
 ### Backend Development
 
 Spring Boot • Java • REST APIs • Microservices • Apache Kafka • Hibernate/JPA • Maven • JWT Authentication • Postman • Database Design
+
 ---
 
 # ⚡ Fun Fact
