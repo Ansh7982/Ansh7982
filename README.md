@@ -1,6 +1,6 @@
 # Hi 👋, I'm  Ansh Singh
 
-### 🚀 Aspiring Data Engineer | AI Engineer | Building Data Pipelines & GenAI Applications
+### 🚀 Aspiring Data Engineer | AI Engineer | Building Data Pipelines & GenAI Applications | Backend Development
 
 Passionate about transforming raw data into meaningful insights through scalable data engineering solutions and modern AI applications.
 
