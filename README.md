@@ -75,6 +75,9 @@ LangChain • Ollama • RAG Applications • Vector Databases • LLM Applicati
 
 Data Lake • Data Warehouse • Lakehouse Architecture • Fact & Dimension Modeling
 
+### Backend
+
+Spring Boot • Data Warehouse • Rest API • Microservice • Postman
 ---
 
 # ⚡ Fun Fact
